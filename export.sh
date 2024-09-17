@@ -1,0 +1,9 @@
+export LOG_FILE=logs/gotify.log
+export LOG_LEVEL=info
+export DEBUG=true
+export DB_PATH=gotify.db
+export SPOTIFY_CLIENT_ID=""
+export SPOTIFY_CLIENT_SECRET=""
+export SPOTIFY_REDIRECT_URL=http://localhost:8080/callback
+export SPOTIFY_STATE=abc123
+export SERVER_ADDRESS=:8080
